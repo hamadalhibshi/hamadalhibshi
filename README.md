@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Mobile and Full-Stack Developer passionate about building scalable, user-focused digital experiences from concept to production. I specialize in developing high-performance mobile applications alongside modern web interfaces, ensuring seamless integration across the entire stack.<br><br>I focus on writing clean, maintainable code and delivering solutions that are both technically sound and intuitive to use. I enjoy turning complex problems into simple, elegant products that provide real business value.<br><br>I’m continuously exploring new technologies and best practices to create fast, reliable, and future-ready applications.
+A Mobile and Full-Stack Developer passionate about building scalable, user-focused digital experiences from concept to production. I specialize in developing high-performance mobile applications alongside modern web interfaces, ensuring seamless integration across the entire stack.<br><br>I focus on writing clean, maintainable code and delivering solutions that are both technically sound and intuitive to use. I enjoy turning complex problems into simple, elegant products that provide real business value.<br><br>I’m continuously exploring new technologies and best practices to create fast, reliable, and future-ready applications.
 
 
 ## 🌐 Socials:
