@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer / Mobile Developer
+I’m a Mobile and Full-Stack Developer passionate about building scalable, user-focused digital experiences from concept to production. I specialize in developing high-performance mobile applications alongside modern web interfaces, ensuring seamless integration across the entire stack.<br><br>I focus on writing clean, maintainable code and delivering solutions that are both technically sound and intuitive to use. I enjoy turning complex problems into simple, elegant products that provide real business value.<br><br>I’m continuously exploring new technologies and best practices to create fast, reliable, and future-ready applications.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ Full Stack Developer / Mobile Developer
 ![](https://github-readme-stats.vercel.app/api?username=hamadalhibshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hamadalhibshi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamadalhibshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hamadalhibshi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hamadalhibshi&icon=0&color=0)](https://visitcount.itsvg.in)
